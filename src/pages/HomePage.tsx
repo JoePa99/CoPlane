@@ -8,8 +8,8 @@ export default function HomePage() {
       <div className="relative overflow-hidden mb-16">
         <div className="absolute inset-0 z-0">
           <img
-            src="/images/N8257E.jpg"
-            alt="Piper Cherokee N8257E at night"
+            src="https://images.unsplash.com/photo-1464037866556-6812c9d1c72e"
+            alt="Small airplane at sunset"
             className="w-full h-[500px] object-cover object-center"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-gray-900/90 via-gray-900/50 to-transparent" />
